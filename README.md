@@ -29,4 +29,8 @@ To use this project:
    
 3. Upload the datasets in the drive, so that ease acces via Google Colab. 
 
-4. Run the SIFT_Final.py file. Change the paths of directory respective to your directories.
+4. Go through the documentation for clear view of the project.
+
+5. Run the SIFT_Final.py file. Change the paths of directory respective to your directories. 
+
+6. Run the VGG16 Features Final.py file. Change the paths of directory respective to your directories.
